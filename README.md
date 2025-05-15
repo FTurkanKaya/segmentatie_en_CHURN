@@ -1,4 +1,4 @@
-# Telco Klantverloop Analyse (Churn Analyse)
+# Telco Churn Analyse
 
 Een datagedreven analyse van klantverloop (churn) bij een telecombedrijf op basis van klantsegmentatie en AI-gestuurde inzichten.
 
